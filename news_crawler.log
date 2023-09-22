@@ -10214,3 +10214,579 @@ https://new.qq.com/rain/a/20230922A04SW300
 外媒：泽连斯基抵达加拿大，系俄乌冲突后首次访加，特鲁多接机
 https://new.qq.com/rain/a/20230922A05C3G00
 
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+学校配餐公司大量使用冻肉引家长不满，冷冻肉与鲜肉相比，有什么不好？
+https://view.inews.qq.com/a/20230921Q08IL900
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+留守老家的摄像头：拍下爷爷奶奶的疲惫孤单，却拍不到他们的心事
+https://new.qq.com/rain/a/20230921V09D1F00
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+没扶手、零卧床、不用尿不湿，老人在这玩21点扑克，这还是养老院吗？
+https://new.qq.com/rain/a/20230921A0ABS700
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+伍佰演唱会摆烂却依旧被夸上天，是网友闭眼吹，还是他本身魅力这么大？
+https://view.inews.qq.com/a/20230921Q09Y7700
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+我国人造太阳“夸父”首次亮相，未来它能让我们实现能源自由吗？
+https://view.inews.qq.com/a/20230921Q09VYR00
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+银川300多亩农田变垃圾场，为何多年无法解决？多部门踢皮球，谁该担责？
+https://view.inews.qq.com/a/20230921Q06PZX00
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+张家界一景区多名身着警察制服人员殴打游客？警方：系打人者非法穿着
+https://new.qq.com/rain/a/20230921A09Q2F00
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+四川凉山等地摆拍卖惨被查，“卖惨带货”成流量密码，背后有着怎样的产业链？
+https://view.inews.qq.com/a/20230921Q0469P00
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+印媒：印度海军达成“巨额交易”，寻求建造第二艘国产航母
+https://new.qq.com/rain/a/20230921A06G4T00
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+杭州亚运会9月23日开幕，为何19日就有项目开赛？开幕式不等于赛程开始？
+https://view.inews.qq.com/a/20230921Q07E4R00
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+地面上蜡烛火焰呈黄色锥状，为何“天宫课堂”实验中蜡烛火焰呈蓝色球状？
+https://view.inews.qq.com/a/20230921Q0AAP700
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+青年女教师举报遭博导侵害，山东师范大学回应：正在调查核实
+https://new.qq.com/rain/a/20230921A0AGK100
+
+2023-09-22 19:14:05,859 - INFO - EXPIRED
+百亿国企原总裁董事长同日领刑：拉帮结派，受贿时间高度重合
+https://new.qq.com/rain/a/20230921A0A3PK00
+
+2023-09-22 19:14:07,146 - INFO - EXIST
+美国公布芯片法案“护栏”规则
+https://new.qq.com/rain/a/20230922A0AIEQ00
+
+2023-09-22 19:14:07,337 - INFO - EXIST
+俄罗斯鼓励民众安装手机软件，帮助俄军打击无人机威胁
+https://new.qq.com/rain/a/20230922A05JGX00
+
+2023-09-22 19:14:07,393 - INFO - EXIST
+谷歌创始人被曝与华裔妻子秘密离婚，女方否认“出轨马斯克”
+https://new.qq.com/rain/a/20230922A098KJ00
+
+2023-09-22 19:14:07,435 - ERROR - ERROR
+余承东卸任华为车业务CEO转任董事长，这番调动有何深意？战略要变吗？
+https://view.inews.qq.com/a/20230922Q059SN00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:07,535 - INFO - EXIST
+范伟凭《漫长的季节》获首尔国际电视剧大赏最佳男主角，《去有风的地方》获最佳长剧奖 
+https://new.qq.com/rain/a/20230922A08OG100
+
+2023-09-22 19:14:07,537 - INFO - EXIST
+叙利亚总统乘坐中国国航飞机访华！三个细节值得关注
+https://new.qq.com/rain/a/20230922A0AWVC00
+
+2023-09-22 19:14:07,547 - INFO - EXIST
+突发！​NBL总决赛，陕西信达罢赛
+https://new.qq.com/rain/a/20230922A0APTI00
+
+2023-09-22 19:14:07,945 - ERROR - ERROR
+山东滕州一交警规劝男子遵守交通规则反被打，交警部门：正在调查
+https://new.qq.com/rain/a/20230922V0ASZP00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:08,205 - ERROR - ERROR
+叙利亚总统巴沙尔与夫人参观杭州灵隐寺，与游客亲切招手问好
+https://new.qq.com/rain/a/20230922V07W1B00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:08,226 - INFO - EXIST
+3名来自所谓“阿鲁纳恰尔邦”印度运动员无法参加亚运会，外交部回应
+https://new.qq.com/rain/a/20230922A09BAZ00
+
+2023-09-22 19:14:08,238 - INFO - EXIST
+欧盟贸易专员将访华，“预计讨论电动汽车反补贴调查问题”
+https://new.qq.com/rain/a/20230922A07TMW00
+
+2023-09-22 19:14:08,460 - ERROR - ERROR
+欧洲芯片法案要求芯片产量到2030年占全球20%，欧洲芯片目前实力如何？
+https://view.inews.qq.com/a/20230922Q0912L00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:08,519 - INFO - INVALID
+全美汽车工人联合会：将扩大对通用汽车和Stellantis的罢工行动
+https://new.qq.com/rain/a/20230922A0AM5R00
+
+2023-09-22 19:14:08,783 - INFO - EXIST
+新华视点·追踪｜教育部：对“预制菜进校园”持审慎态度
+https://new.qq.com/rain/a/20230922A09PIG00
+
+2023-09-22 19:14:08,997 - INFO - INVALID
+中国恒大：原定9月25-26日有关建议重组的相关协议安排会议将不会举行
+https://new.qq.com/rain/a/20230922A0AEZO00
+
+2023-09-22 19:14:09,206 - INFO - EXIST
+苏州升级特大城市，说好的虹吸效应呢？
+https://new.qq.com/rain/a/20230922A03F5L00
+
+2023-09-22 19:14:09,248 - INFO - EXIST
+中美成立经济领域工作组，坐下来，谈起来
+https://new.qq.com/rain/a/20230922A09EGU00
+
+2023-09-22 19:14:09,378 - INFO - EXIST
+发行公司债隐瞒2亿元债务违约信息？平安不动产：举报内容不实，将正式公告
+https://new.qq.com/rain/a/20230922A0ALRL00
+
+2023-09-22 19:14:09,546 - INFO - EXIST
+蓝翔教育科技集团注销，山东蓝翔技师学院回应：对本校没有影响
+https://new.qq.com/rain/a/20230922A09HTD00
+
+2023-09-22 19:14:09,754 - INFO - EXIST
+台媒：台湾屏东一工厂发生爆炸，目前1死82伤，仍有多人受困
+https://new.qq.com/rain/a/20230922A09X0M00
+
+2023-09-22 19:14:09,819 - INFO - EXIST
+下周一起，存量房贷利率开始调整，部分银行上线存量房贷利率调整栏目
+https://new.qq.com/rain/a/20230922A0A2AK00
+
+2023-09-22 19:14:10,076 - INFO - EXIST
+中国厂二代：把董明珠、马斯克当偶像，年赚千万却被老爸嫌弃
+https://new.qq.com/rain/a/20230922A0840G00
+
+2023-09-22 19:14:10,210 - INFO - EXIST
+俄媒：俄黑海舰队位于塞瓦斯托波尔的指挥部遭导弹袭击
+https://new.qq.com/rain/a/20230922A0860900
+
+2023-09-22 19:14:10,363 - ERROR - ERROR
+俄维和部队将领遇袭身亡，阿塞拜疆称系误伤，普京会给对方点颜色看看吗？
+https://view.inews.qq.com/a/20230922Q0369I00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:10,498 - INFO - EXIST
+自述牵狗进电梯被邻居殴打女生道歉：账号设私密，主页发致歉文本
+https://new.qq.com/rain/a/20230922A07HAU00
+
+2023-09-22 19:14:10,503 - ERROR - ERROR
+“天宫课堂”实验中为什么用火柴点蜡烛，而不用打火机？太空点火危险吗？
+https://view.inews.qq.com/a/20230922Q03KAE00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:10,606 - INFO - EXIST
+星巴克中国狂飙，投资15亿元加码供应链，平均9小时开一家新店
+https://new.qq.com/rain/a/20230922A08PNM00
+
+2023-09-22 19:14:10,810 - INFO - EXIST
+河北一初中向家长收6万多元“捐赠费”，还只能交现金？区教体局回应
+https://new.qq.com/rain/a/20230922A065PH00
+
+2023-09-22 19:14:11,179 - ERROR - ERROR
+台“特种部队”进行格斗操演，配劲爆音乐像街舞表演
+https://new.qq.com/rain/a/20230922V07IHQ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:11,245 - INFO - EXIST
+男子凌晨潜入饭店送花圈、撒纸钱，只因前上司朋友圈发了一句“吐槽”
+https://new.qq.com/rain/a/20230922A06SJB00
+
+2023-09-22 19:14:11,462 - ERROR - ERROR
+988元礼盒已抢光，“天价”月饼又回来了？都是谁在买这种月饼？
+https://view.inews.qq.com/a/20230922Q02HAQ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:11,521 - INFO - EXIST
+起底虚拟资产交易平台JPEX爆雷风波，一场涉及13亿港元金融骗局
+https://new.qq.com/rain/a/20230922A01GJ900
+
+2023-09-22 19:14:11,597 - INFO - EXIST
+美众议院议长反对，泽连斯基未能在美国国会发表讲话
+https://new.qq.com/rain/a/20230922A070VC00
+
+2023-09-22 19:14:11,799 - ERROR - ERROR
+女教师举报教授性侵未遂 证人发声：很后悔建议她拜访傅某 支持她发声
+https://new.qq.com/rain/a/20230922V07VX500
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:11,835 - INFO - EXIST
+马上评｜一句“老师今天没打我真开心”，何其沉重
+https://new.qq.com/rain/a/20230922A04J9500
+
+2023-09-22 19:14:12,157 - INFO - EXIST
+因滥用芯片市场支配地位，英特尔被欧盟处以4亿美元罚款
+https://new.qq.com/rain/a/20230922A0897K00
+
+2023-09-22 19:14:12,190 - INFO - EXIST
+2023我国系统重要性银行名单出炉：20家银行上榜 释放什么信号？
+https://new.qq.com/rain/a/20230922A080O400
+
+2023-09-22 19:14:12,297 - INFO - EXIST
+海关总署、农业农村部：禁止直接或间接从瑞典输入猪、野猪及其产品
+https://new.qq.com/rain/a/20230922A0764B00
+
+2023-09-22 19:14:12,638 - ERROR - ERROR
+如果李在明最终确认被捕，共同民主党可能选谁来做党首？文在寅会出山吗？
+https://view.inews.qq.com/a/20230922Q02J4X00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:12,688 - ERROR - ERROR
+知名网红在缅甸被判死刑，深入诈骗园区揭露骗局内幕
+https://new.qq.com/rain/a/20230922V01Z2M00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:12,945 - INFO - EXIST
+西安铁道技师学院学生称毕业才知不是全日制大专文凭，官方回复
+https://new.qq.com/rain/a/20230922A02LTW00
+
+2023-09-22 19:14:13,008 - ERROR - ERROR
+美对乌军援为何集束炸弹、贫铀弹都给了，但不提供远程导弹？未来会给吗？
+https://view.inews.qq.com/a/20230922Q04WJN00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:13,038 - INFO - EXIST
+马来西亚总理：南海问题应该在地区内部解决，中方的说明令人放心
+https://new.qq.com/rain/a/20230922A05OHT00
+
+2023-09-22 19:14:13,187 - INFO - EXIST
+小学要求一至五年级学生军训引质疑，学校：自愿参加，课余时间训练
+https://new.qq.com/rain/a/20230922A06WH600
+
+2023-09-22 19:14:13,319 - INFO - EXIST
+36岁成为女市长，21年后主动投案
+https://new.qq.com/rain/a/20230922A050RP00
+
+2023-09-22 19:14:13,459 - ERROR - ERROR
+辽宁大连海域出现“水龙卷”现象：白色水柱成旋涡状 从天空直挂海面
+https://new.qq.com/rain/a/20230922V07TO500
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:13,829 - ERROR - ERROR
+网传“攀枝花将地震”，有居民称假期不敢回，四川地震局：系谣言
+https://new.qq.com/rain/a/20230922V05JG700
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:13,912 - INFO - EXIST
+北京一公交车被水泥罐车追尾，18名乘客送医
+https://new.qq.com/rain/a/20230922A05K4200
+
+2023-09-22 19:14:13,934 - INFO - EXIST
+韩国副外长预计中日韩领导人会议有望今年内或明年初举行，外交部回应
+https://new.qq.com/rain/a/20230922A05KEK00
+
+2023-09-22 19:14:14,013 - INFO - EXIST
+外媒关注：俄对乌发动数周来最大规模导弹袭击，导致乌境内5个州停电
+https://new.qq.com/rain/a/20230922A05TH700
+
+2023-09-22 19:14:14,079 - ERROR - ERROR
+共同民主党明明占多数席位，国会为何还是通过了李在明逮捕令？党内有内鬼？
+https://view.inews.qq.com/a/20230922Q0588I00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:14,414 - INFO - EXIST
+A股收评：大盘放量反弹创业板指涨超2%，超4500只个股飘红
+https://new.qq.com/rain/a/20230922A05B2800
+
+2023-09-22 19:14:14,538 - INFO - EXIST
+美媒：欲缓解对华紧张，白宫让驻日大使慎言
+https://new.qq.com/rain/a/20230922A00Z9100
+
+2023-09-22 19:14:14,745 - INFO - EXIST
+外媒：泽连斯基抵达加拿大，系俄乌冲突后首次访加，特鲁多接机
+https://new.qq.com/rain/a/20230922A05C3G00
+
+2023-09-22 19:14:14,829 - ERROR - ERROR
+塞尔维亚总统联大批西方“双标”：曾侵略我们的人在谈乌克兰领土完整
+https://new.qq.com/rain/a/20230922V0628G00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:14,864 - INFO - EXIST
+金正恩向朝鲜高层传达访俄成果：世界版图发生根本变化
+https://new.qq.com/rain/a/20230922A04P8C00
+
+2023-09-22 19:14:15,076 - INFO - EXIST
+儿子监狱服刑，母亲骗领国家工资41万，时任局长挪用资金且知情不报
+https://new.qq.com/rain/a/20230922A0172O00
+
+2023-09-22 19:14:15,379 - INFO - EXIST
+北京农村提供免费食堂，很多老人觉得难吃，饭菜打回家又喂给了狗和鸡
+https://new.qq.com/rain/a/20230922A013TV00
+
+2023-09-22 19:14:15,417 - INFO - EXIST
+传监管层将成立股市平准基金 限制量化融券
+https://new.qq.com/rain/a/20230922A050XU00
+
+2023-09-22 19:14:15,583 - INFO - EXIST
+中国文艺评论家协会：注意到网传山东师大傅某性侵未遂事件，正了解中
+https://new.qq.com/rain/a/20230922A03Y2200
+
+2023-09-22 19:14:15,657 - INFO - EXIST
+外媒曝：借口中国海军快速发展，美国正重启绝密水下监视系统
+https://new.qq.com/rain/a/20230922A03XT600
+
+2023-09-22 19:14:15,690 - ERROR - ERROR
+美国小镇青年隐居武当山13年，做一名“洋道士”是一种怎样的体验？
+https://view.inews.qq.com/a/20230922Q03XQC00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:16,008 - INFO - EXIST
+神童张炘炀逼父母北京买房是远见，父母不买见识短浅？网友别事后诸葛
+https://new.qq.com/rain/a/20230922A04SW300
+
+2023-09-22 19:14:16,092 - INFO - EXIST
+多银行可查存量房贷利率调整情况，“高位站岗”购房者利率降幅大
+https://new.qq.com/rain/a/20230922A04KEJ00
+
+2023-09-22 19:14:16,193 - ERROR - ERROR
+山东师大教授被指性侵：当事人称被诬陷已报案，举报者称让警方来查
+https://new.qq.com/rain/a/20230922V0406R00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:16,225 - INFO - EXIST
+iPhone 15系列开售：有人凌晨1点来排队，现场黄牛加价千元
+https://new.qq.com/rain/a/20230922A010BZ00
+
+2023-09-22 19:14:16,421 - INFO - EXIST
+李斌谈蔚来造手机：肯定会被大家群嘲，但我们也无所谓
+https://new.qq.com/rain/a/20230922A04HWY00
+
+2023-09-22 19:14:16,604 - INFO - EXIST
+任正非最新访谈曝光：华为会越来越困难，但华为也会越来越兴盛
+https://new.qq.com/rain/a/20230922A01GY800
+
+2023-09-22 19:14:16,881 - INFO - EXIST
+被骗、涉黄……“旅游搭子”暗藏多少陷阱？有人还没出发就被骗3000元
+https://new.qq.com/rain/a/20230922A00KS700
+
+2023-09-22 19:14:17,013 - ERROR - ERROR
+花西子被吐槽“成也李佳琦，败也李佳琦”，为何这么说？它未来前景如何？
+https://view.inews.qq.com/a/20230922Q01MS900
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:17,104 - INFO - EXIST
+花西子被李佳琦反噬，新老国货内斗，便宜了外资品牌  
+https://new.qq.com/rain/a/20230922A03Q9U00
+
+2023-09-22 19:14:17,109 - ERROR - ERROR
+网曝河北一中学多名学生食物中毒上吐下泻，知情人称是肉夹馍变质
+https://new.qq.com/rain/a/20230922V035AQ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:17,226 - INFO - EXIST
+A股集体反弹！沪指收复3100点，深成指、创业板指双双涨超1%
+https://new.qq.com/rain/a/20230922A03CHO00
+
+2023-09-22 19:14:17,310 - INFO - EXIST
+法拉第未来全球CEO换人！贾跃亭等承诺用一半工资买公司股票
+https://new.qq.com/rain/a/20230922A02Y7Y00
+
+2023-09-22 19:14:17,600 - INFO - EXIST
+乐视网一审判决出炉：乐视网需赔偿20.40亿 贾跃亭承担连带赔偿责任
+https://new.qq.com/rain/a/20230922A01V7Y00
+
+2023-09-22 19:14:17,660 - INFO - EXIST
+限制商品过度包装国家标准发布：蔬菜和蛋不超过3层包装
+https://new.qq.com/rain/a/20230922A02RWH00
+
+2023-09-22 19:14:17,857 - INFO - EXIST
+农民日报头版评论：消费“伪苦难”，是对农民的多重伤害
+https://new.qq.com/rain/a/20230922A00Q3700
+
+2023-09-22 19:14:18,009 - ERROR - ERROR
+一男子私爬高压线塔，警方：因未戴头盔被查情绪失控，其患有精神疾病
+https://new.qq.com/rain/a/20230922V01YNI00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:18,039 - INFO - EXIST
+国家卫健委领导班子调整，新任纪检监察组组长到任
+https://new.qq.com/rain/a/20230922A02YVZ00
+
+2023-09-22 19:14:18,161 - INFO - EXIST
+官方22条措施力挺民营经济，营造关心促进民营经济发展壮大社会氛围
+https://new.qq.com/rain/a/20230922A02JHF00
+
+2023-09-22 19:14:18,323 - INFO - EXIST
+卷入10亿诈骗案？港星张智霖协助警方调查，回应称去年9月已终止合作
+https://new.qq.com/rain/a/20230922A00QIA00
+
+2023-09-22 19:14:18,451 - INFO - EXIST
+俄周边一场闪电战突然结束：阿塞拜疆掌控纳卡，西方趁机挖俄罗斯墙角
+https://new.qq.com/rain/a/20230922A00WKI00
+
+2023-09-22 19:14:18,736 - INFO - EXIST
+长沙：居民家庭购买首套商品住房 不再需要提供购房证明
+https://new.qq.com/rain/a/20230922A01MUY00
+
+2023-09-22 19:14:18,782 - INFO - EXIST
+美媒：拜登白宫会见泽连斯基宣布新军援，但不包括ATACMS远程导弹
+https://new.qq.com/rain/a/20230922A00T8E00
+
+2023-09-22 19:14:18,802 - INFO - EXIST
+媒体：波兰不愿意给军火，德国的又不想要，乌克兰的大麻烦也许来临了
+https://new.qq.com/rain/a/20230922A01ITD00
+
+2023-09-22 19:14:18,879 - ERROR - ERROR
+这届年轻人学会了“愉悦升级”？社会学家沈奕斐：悦己和悦人是一体两面的
+https://new.qq.com/rain/a/20230922V009L300
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-22 19:14:19,039 - INFO - EXIST
+国家统计局副局长盛来运经济日报撰文：中国经济高质量发展大势没有变
+https://new.qq.com/rain/a/20230922A00NJX00
+
