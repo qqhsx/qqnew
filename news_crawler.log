@@ -45882,3 +45882,603 @@ https://new.qq.com/rain/a/20230925A005VJ00
 美国汽车工人联合会罢工进入第九天，罢工一周造成16亿美元经济损失
 https://new.qq.com/rain/a/20230925A00UQF00
 
+2023-09-25 23:17:58,924 - INFO - EXPIRED
+鸟届举行奥运会会是啥样？一年跑379个全球马拉松 冲刺冠军就是游隼
+https://new.qq.com/rain/a/20230922V09I1200
+
+2023-09-25 23:17:58,924 - INFO - EXPIRED
+31楼顶层住户楼顶开洞加建违建，业主：全楼都在漏水，无一幸免
+https://new.qq.com/rain/a/20230923A069ZO00
+
+2023-09-25 23:17:58,924 - INFO - EXPIRED
+俄媒称有德国国防军士兵在乌克兰被俘，德军亲自下场参与俄乌冲突了？
+https://view.inews.qq.com/a/20230924Q05B4300
+
+2023-09-25 23:17:58,925 - INFO - EXPIRED
+十一酒店价格暴涨，为何经济型酒店普遍比五星级酒店涨更多？你会怎么选？
+https://view.inews.qq.com/a/20230924Q06G7R00
+
+2023-09-25 23:17:58,925 - INFO - EXPIRED
+中东土豪又来深圳了
+https://new.qq.com/rain/a/20230923A058UG00
+
+2023-09-25 23:17:58,925 - INFO - EXPIRED
+中国作家残雪诺贝尔文学奖呼声连年高涨，她能否问鼎？为何国内名气不高？
+https://view.inews.qq.com/a/20230924Q068Q200
+
+2023-09-25 23:17:58,925 - INFO - EXPIRED
+粮食增产和生态保护如何平衡？使用农药后我国主粮损失还有1800万吨
+https://new.qq.com/rain/a/20230922V007H700
+
+2023-09-25 23:17:58,925 - INFO - EXPIRED
+天灾频仍，当我们主张韧性城市的时候，被忽视的农村又该何去何从？
+https://new.qq.com/rain/a/20230922A09E6S00
+
+2023-09-25 23:17:58,925 - INFO - EXPIRED
+千亿光伏回收市场，赚到钱的是野路子的小作坊
+https://new.qq.com/rain/a/20230924A069UE00
+
+2023-09-25 23:17:58,925 - INFO - EXPIRED
+历时七年耗资10亿美元，美国首次成功从太空带回小行星样本
+https://new.qq.com/rain/a/20230924A07UNR00
+
+2023-09-25 23:17:58,925 - INFO - EXPIRED
+天津收紧政策应对中考“空降生”：总分18分的体育平时成绩计零
+https://new.qq.com/rain/a/20230924A06TK700
+
+2023-09-25 23:17:58,925 - INFO - EXPIRED
+中央政法委书记陈文清出国参会，时隔四年机制重启，出现一个重要变化
+https://new.qq.com/rain/a/20230924A0774K00
+
+2023-09-25 23:17:59,768 - ERROR - ERROR
+老人碰瓷被车主持刀追赶 街道办：砍人时用的刀背，车主已被拘留
+https://new.qq.com/rain/a/20230925V0A4TF00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:17:59,818 - INFO - EXIST
+捏造73岁企业家娶29岁美女博主获刑，法院：情节严重，严重危害社会秩序
+https://new.qq.com/rain/a/20230925A06ZFC00
+
+2023-09-25 23:17:59,856 - INFO - EXIST
+美国贸易代表戴琪放风：希望在今年内完成对华301关税的必要性审核
+https://new.qq.com/rain/a/20230925A09EC200
+
+2023-09-25 23:18:00,399 - ERROR - ERROR
+许家印身家2年从2040亿缩水到200亿，他的钱去哪了？还剩哪些资产？
+https://view.inews.qq.com/a/20230925Q06LEZ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:00,480 - ERROR - ERROR
+掌掴对手、狂砸球拍，韩国选手连续“出糗”，是心态崩了还是另有隐情？
+https://view.inews.qq.com/a/20230925Q0817X00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:00,553 - INFO - EXIST
+加拿大议会“致敬”纳粹，他们都怒了
+https://new.qq.com/rain/a/20230925A09LRU00
+
+2023-09-25 23:18:00,634 - INFO - EXIST
+何立峰与东布罗夫斯基斯共同主持第十次中欧经贸高层对话
+https://new.qq.com/rain/a/20230925A0AKSE00
+
+2023-09-25 23:18:00,789 - INFO - INVALID
+长沙一小区出租屋发生液化气爆燃：明火已扑灭，2人受伤
+https://new.qq.com/rain/a/20230925A0AG5R00
+
+2023-09-25 23:18:00,791 - INFO - EXIST
+外媒：俄罗斯已将寻求逮捕普京的国际刑事法院院长列入通缉名单
+https://new.qq.com/rain/a/20230925A08O5400
+
+2023-09-25 23:18:00,824 - INFO - EXIST
+台自造潜艇将下水？台军前“参谋总长”扬言“不让解放军进太平洋”
+https://new.qq.com/rain/a/20230925A0AADV00
+
+2023-09-25 23:18:01,022 - INFO - EXIST
+刘和平：欧盟若对华为和中国电动车下手，我们可以这么做
+https://new.qq.com/rain/a/20230925A09CWH00
+
+2023-09-25 23:18:01,343 - ERROR - ERROR
+泽连斯基：已接收美“艾布拉姆斯”主战坦克 将增强反攻的乌军力量
+https://new.qq.com/rain/a/20230925V09UIF00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:01,559 - ERROR - ERROR
+律师实名举报贵州某医院院长曾有医疗过失致多患者感染 卫健局介入
+https://new.qq.com/rain/a/20230925V09JIL00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:01,642 - INFO - EXIST
+湖南邵阳一辅警醉驾致1死1伤后逃逸，警方回应：已对嫌疑人采取刑事强制措施，双方家属就赔偿事项已达成初步意见
+https://new.qq.com/rain/a/20230925A08C7500
+
+2023-09-25 23:18:01,702 - INFO - EXIST
+女厅官被公诉近3个月后，更多涉案细节披露
+https://new.qq.com/rain/a/20230925A08OJ400
+
+2023-09-25 23:18:01,757 - ERROR - ERROR
+乌方传俄黑海舰队司令遇袭身亡，假设俄黑海舰队真的覆灭了，乌军能拿下克里米亚吗？
+https://view.inews.qq.com/a/20230925Q06E0900
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:01,759 - INFO - EXIST
+乌国防部称俄黑海舰队司令在导弹袭击中死亡 俄方暂无回应
+https://new.qq.com/rain/a/20230925A08IW700
+
+2023-09-25 23:18:02,125 - INFO - INVALID
+中国人民银行行长潘功胜会见美国保尔森基金会主席亨利·保尔森
+https://new.qq.com/rain/a/20230925A09CX500
+
+2023-09-25 23:18:02,236 - ERROR - ERROR
+竞者 | 丘索维金娜晋级跳马决赛，过去她是伟大母亲，现在是传奇选手
+https://new.qq.com/rain/a/20230925V09O9E00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:02,453 - ERROR - ERROR
+出去遛狗，电梯遇到邻居说他害怕，此时谁该下电梯？该禁止带狗乘电梯吗？
+https://view.inews.qq.com/a/20230925Q069SS00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:02,614 - ERROR - ERROR
+音为亚运｜“我想要怒放的生命”，为中国亚运总1500金欢呼！
+https://new.qq.com/rain/a/20230925V09BPD00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:02,682 - INFO - EXIST
+考虑向投资者再筹集30亿美元资金？蔚来回应：消息不实
+https://new.qq.com/rain/a/20230925A08N5P00
+
+2023-09-25 23:18:02,791 - INFO - EXIST
+择期宣判！刘学州被网暴致死案开庭，亲属：为孩子讨回公道
+https://new.qq.com/rain/a/20230925A08GWS00
+
+2023-09-25 23:18:02,938 - INFO - EXIST
+最高人民法院办公厅主任郭竞坤被调查
+https://new.qq.com/rain/a/20230925A07I9800
+
+2023-09-25 23:18:03,165 - INFO - INVALID
+朝鲜宣布即日起外国人可依规入境，需接受2天医学隔离
+https://new.qq.com/rain/a/20230925A07WUN00
+
+2023-09-25 23:18:03,204 - ERROR - ERROR
+尼日尔、加蓬等国纷纷与法国翻脸，法国要逐步失去在非洲的控制力了吗？
+https://view.inews.qq.com/a/20230925Q04PV700
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:03,343 - INFO - EXIST
+柬埔寨新首相洪玛奈：呼吁外国势力停止炒作中国在柬建海军基地谣言
+https://new.qq.com/rain/a/20230925A08J3400
+
+2023-09-25 23:18:03,551 - ERROR - ERROR
+亚运会超大冷门，日本乒乓球队0-3不敌伊朗，日本乒乓球队怎么了？
+https://view.inews.qq.com/a/20230925Q084WE00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:03,640 - ERROR - ERROR
+亚运围棋男子个人第3轮战罢，柯洁击败日本名将一力辽，豪取三连胜
+https://new.qq.com/rain/a/20230925V04O9Z00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:04,000 - INFO - EXIST
+神舟十二号至十五号航天员授称颁奖大会25日在北京举行
+https://new.qq.com/rain/a/20230925A081IF00
+
+2023-09-25 23:18:04,199 - ERROR - ERROR
+有人说乡镇少年初中毕业后对社会有认知偏见，低学历青少年就没出路吗？
+https://view.inews.qq.com/a/20230925Q02O2J00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:04,243 - INFO - EXIST
+确定身份！时隔27年辽宁阜新女子被碎尸案告破
+https://new.qq.com/rain/a/20230925A05H4U00
+
+2023-09-25 23:18:04,424 - INFO - EXIST
+贵州山脚树煤矿皮带着火16人遇难，矿工称皮带“烧了40多米”
+https://new.qq.com/rain/a/20230925A089UQ00
+
+2023-09-25 23:18:04,483 - ERROR - ERROR
+闪婚闪离女方应该返还彩礼吗？彩礼和嫁妆在离婚时到底属于谁？
+https://view.inews.qq.com/a/20230925Q05ULS00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:04,619 - INFO - EXIST
+基辛格会见泽连斯基：俄乌冲突事已至此，反对乌“入约”已无意义
+https://new.qq.com/rain/a/20230925A04YGR00
+
+2023-09-25 23:18:05,008 - ERROR - ERROR
+安徽一老人被马蜂蜇伤致死，马蜂杀伤性有多强？被马蜂群攻击如何自保？
+https://view.inews.qq.com/a/20230925Q04VGF00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:05,097 - INFO - EXIST
+长沙医院手术致多人伤残申请再审被驳回 湖南高院：患者鉴定结论可信
+https://new.qq.com/rain/a/20230925A0714I00
+
+2023-09-25 23:18:05,227 - INFO - EXIST
+菲律宾一公务船企图冲撞黄岩岛潟湖，外交部：中国海警拦阻驱离
+https://new.qq.com/rain/a/20230925A05NE100
+
+2023-09-25 23:18:05,283 - INFO - EXIST
+中国公民被骗至济州甚至有人被限制人身自由，中国总领馆发布提醒
+https://new.qq.com/rain/a/20230925A06GWD00
+
+2023-09-25 23:18:05,348 - INFO - EXIST
+曾炒作与中国交战的“战鼓”已敲响，澳大利亚内政部秘书长出事了
+https://new.qq.com/rain/a/20230925A03JF300
+
+2023-09-25 23:18:05,418 - INFO - EXIST
+观众质疑虚假宣传！《大唐·乐宴》长春沈阳演出接连被喊“退票”
+https://new.qq.com/rain/a/20230925A06PV700
+
+2023-09-25 23:18:05,576 - INFO - EXIST
+苦等2个月 国产版号终于来了:共89个，多家中小厂获批，有公司连拿3款
+https://new.qq.com/rain/a/20230925A07SJ400
+
+2023-09-25 23:18:05,760 - ERROR - ERROR
+日本一购物中心发生随机伤人事件：3人受伤被送医，18岁嫌犯被逮捕
+https://new.qq.com/rain/a/20230925V06WAN00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:05,795 - ERROR - ERROR
+韩国前总统朴槿惠罕见露面传统市场：穿运动鞋赶集，与商贩握手寒暄
+https://new.qq.com/rain/a/20230925V05RHV00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:06,019 - INFO - EXIST
+这瓜保熟吗？孙红雷起诉一公司“华强买瓜”台词侵犯声音权，索赔50万
+https://new.qq.com/rain/a/20230925A05Y8X00
+
+2023-09-25 23:18:06,074 - INFO - EXIST
+公安部：就网络侮辱、诽谤提起自诉的案件，被害人若取证难公安机关可协助取证
+https://new.qq.com/rain/a/20230925A068AR00
+
+2023-09-25 23:18:06,385 - INFO - EXIST
+关门概率100%？会持续多久？影响多大？一文读懂美国政府关门
+https://new.qq.com/rain/a/20230925A03OZ200
+
+2023-09-25 23:18:06,480 - INFO - EXIST
+平安不动产澄清：不存在债务违约问题 相关涉案事项不会发生重大损失
+https://new.qq.com/rain/a/20230925A05XBT00
+
+2023-09-25 23:18:06,541 - ERROR - ERROR
+瓦格纳非洲商业帝国掌控者为何是一个34岁的年轻人？他能掌控局面吗？
+https://view.inews.qq.com/a/20230925Q0621U00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:06,885 - INFO - EXIST
+加入“灵修”后，他们从裸辞到负债百万
+https://new.qq.com/rain/a/20230925A03OKS00
+
+2023-09-25 23:18:06,981 - INFO - EXIST
+美国政府从2009年开始就入侵了华为总部服务器，中方：谴责
+https://new.qq.com/rain/a/20230925A05ML100
+
+2023-09-25 23:18:06,991 - ERROR - ERROR
+国足亚运队0比0战平小组倒数第一孟加拉国，是故意保存实力还是水平使然？
+https://view.inews.qq.com/a/20230925Q0212R00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:07,413 - ERROR - ERROR
+4年级男生遭2位同学极端凌辱，家长如何及早发现霸凌？如何教孩子应对？
+https://view.inews.qq.com/a/20230925Q045GR00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:07,422 - INFO - EXIST
+“两高一部”出台意见依法惩治网络暴力违法犯罪
+https://new.qq.com/rain/a/20230925A059ZW00
+
+2023-09-25 23:18:07,503 - INFO - EXIST
+韩媒称韩国海警以“非法捕捞”为由扣押一中国渔船，中方此前已表态
+https://new.qq.com/rain/a/20230925A05CBN00
+
+2023-09-25 23:18:07,856 - ERROR - ERROR
+张核子进军预制菜，曾陷“核酸造假”的他转型卖方便米饭，大众会买账吗？
+https://view.inews.qq.com/a/20230925Q02J4E00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:07,970 - INFO - EXIST
+济南国资平台甩卖1341套现房，总价值约28亿
+https://new.qq.com/rain/a/20230925A04T5A00
+
+2023-09-25 23:18:07,983 - INFO - EXIST
+对华免签的第一天，泰国总理亲自到机场迎接中国游客
+https://new.qq.com/rain/a/20230925A03MBJ00
+
+2023-09-25 23:18:08,116 - INFO - EXIST
+云南盈江一坚果公司发生缺氧事故：已致3人死亡，其中一死者年仅25岁
+https://new.qq.com/rain/a/20230925A04TGU00
+
+2023-09-25 23:18:08,365 - INFO - EXIST
+家长花费50万为自闭症儿子“经络重构”，无效后陷入退款困境
+https://new.qq.com/rain/a/20230925A00OFD00
+
+2023-09-25 23:18:08,599 - INFO - EXIST
+上市三天，iPhone 15跌破官网价 黄牛：华为抢走了苹果用户
+https://new.qq.com/rain/a/20230925A04RH400
+
+2023-09-25 23:18:08,673 - ERROR - ERROR
+4年级男生在全日制寄宿学校遭同学极端凌辱，孩子太早住校是不是好选择？
+https://view.inews.qq.com/a/20230925Q02PV500
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:08,684 - INFO - EXIST
+德国经济部长：中国人很聪明，现在向他们销售大量汽车变得有点困难
+https://new.qq.com/rain/a/20230925A034JR00
+
+2023-09-25 23:18:08,686 - INFO - EXIST
+郑州大学自考办提醒考生答辩时“放小抄”？官方：用词不当，不是作弊
+https://new.qq.com/rain/a/20230925A04GW000
+
+2023-09-25 23:18:09,196 - INFO - EXIST
+男孩河床边玩耍发现恐龙脚印 四川古蔺县现世界罕见蜥脚类恐龙幻迹
+https://new.qq.com/rain/a/20230925A011HD00
+
+2023-09-25 23:18:09,309 - INFO - EXIST
+贵州盘州山脚树煤矿运输胶带起火致16人死亡，国务院安委会挂牌督办
+https://new.qq.com/rain/a/20230925A03LFV00
+
+2023-09-25 23:18:09,314 - ERROR - ERROR
+重庆奉节强降雨致部分公路塌方路面开裂，交通局：仍有4处道路停运
+https://new.qq.com/rain/a/20230925V02YYJ00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:09,349 - INFO - EXIST
+韩媒：韩总统办公室放风尹锡悦没接受总理罢免建议案，其将继续履职
+https://new.qq.com/rain/a/20230925A02WUN00
+
+2023-09-25 23:18:09,579 - INFO - EXIST
+玩具“萝卜刀”成解压神器？中小学生扎堆玩，专家：可能激发暴力倾向
+https://new.qq.com/rain/a/20230925A00UM200
+
+2023-09-25 23:18:09,641 - ERROR - ERROR
+轻舟已过万重山！辽宁舰入列11周年、海南舰下水4周年
+https://new.qq.com/rain/a/20230925V01JFU00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:09,660 - INFO - EXIST
+“天价”养殖娃娃鱼跌下神坛调查：从千元一斤跌至20元一斤，养殖户曾年入百万如今转型
+https://new.qq.com/rain/a/20230925A0112Y00
+
+2023-09-25 23:18:10,259 - INFO - EXIST
+国企垄断本地殡葬拒绝中介被判违法：警惕行政垄断隐蔽化
+https://new.qq.com/rain/a/20230925A00EM600
+
+2023-09-25 23:18:10,290 - INFO - EXIST
+泽连斯基2024年是否会竞选连任？乌克兰第一夫人回应
+https://new.qq.com/rain/a/20230925A01IE100
+
+2023-09-25 23:18:10,497 - INFO - EXIST
+针对中俄？外媒称美越正商讨军售大单，被指存在价格高昂等关键障碍
+https://new.qq.com/rain/a/20230925A00Q8T00
+
+2023-09-25 23:18:10,547 - INFO - EXIST
+国家安全部曝光多个“间谍网勾”案例 
+https://new.qq.com/rain/a/20230925A00TMW00
+
+2023-09-25 23:18:10,576 - INFO - EXIST
+日赚上亿，茅台、五粮液为啥要投银行、建机场
+https://new.qq.com/rain/a/20230925A02XJ800
+
+2023-09-25 23:18:11,014 - INFO - EXIST
+34岁初中老师重新高考转学口腔医学
+https://new.qq.com/rain/a/20230925A015GX00
+
+2023-09-25 23:18:11,055 - INFO - EXIST
+交通运输部：对5至7座小型客车非法从事网约车经营进行精准打击
+https://new.qq.com/rain/a/20230925A02KAJ00
+
+2023-09-25 23:18:11,191 - INFO - EXIST
+马克龙宣布法国年底前从尼日尔撤军
+https://new.qq.com/rain/a/20230925A00IS600
+
+2023-09-25 23:18:11,248 - INFO - EXIST
+华为秋季全场景发布会前瞻：Mate60 RS归位，新车品牌或亮相
+https://new.qq.com/rain/a/20230925A0185F00
+
+2023-09-25 23:18:11,432 - INFO - EXIST
+长城转型，尚缺爆款：欧拉停售热销车，魏牌销量不佳7年停产10款车型
+https://new.qq.com/rain/a/20230925A01U1L00
+
+2023-09-25 23:18:11,519 - INFO - EXIST
+美国前总统卡特罕见公开露面 此前曾接受临终关怀
+https://new.qq.com/rain/a/20230925A00ZUD00
+
+2023-09-25 23:18:11,631 - INFO - EXIST
+加拿大获得的印特工情报是美国提供？FBI：在美锡克教徒面临生命威胁
+https://new.qq.com/rain/a/20230925A00QQS00
+
+2023-09-25 23:18:11,670 - INFO - EXIST
+“政治门外汉的歇斯底里妄言”，朝中社发文谴责尹锡悦“诋毁朝俄关系”
+https://new.qq.com/rain/a/20230925A010S100
+
+2023-09-25 23:18:12,104 - INFO - EXIST
+上半年巨亏超4000亿元，美联储13年来首次裁员，美国企业破产潮来了？
+https://new.qq.com/rain/a/20230925A005VJ00
+
+2023-09-25 23:18:12,104 - INFO - EXIST
+乌克兰与波兰或就农产品过境达成妥协方案
+https://new.qq.com/rain/a/20230925A00UQS00
+
+2023-09-25 23:18:12,145 - ERROR - ERROR
+竞者｜从世锦赛第11到历史第三人，汪顺在质疑声中王者归来
+https://new.qq.com/rain/a/20230925V0122Y00
+('list index out of range',)
+======
+Traceback (most recent call last):
+  File "/home/runner/work/qqnews/qqnews/qq.py", line 32, in process_article
+    ss = str(tmpbs.select("div.LEFT div.content.clearfix")[0])
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+
+2023-09-25 23:18:12,256 - INFO - EXIST
+美国汽车工人联合会罢工进入第九天，罢工一周造成16亿美元经济损失
+https://new.qq.com/rain/a/20230925A00UQF00
+
